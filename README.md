@@ -44,7 +44,7 @@ This application provides a graphical interface for inverse Physics-Informed Neu
 git clone https://github.com/KevinHaka/Physics-Informed-Neural-Networks.git
 ```
 ```bash
-cd PINNs
+cd Physics-Informed-Neural-Networks
 ```
 
 ### Prerequisites
