@@ -57,6 +57,11 @@ pip install -r requirements.txt
 
 ### Running the Projects
 
+**PINNs Animation:**
+- Navigate to the PINNs_GIF directory
+- Open the PINNs.ipynb file in Jupyter Notebook
+- Run all cells to generate the animation
+
 **PINNs GUI:**
 ```bash
 cd PINNs_GUI
@@ -72,11 +77,6 @@ cd iPINNs_GUI
 ```bash
 python iPINNs_and_GUI.py
 ```
-
-**PINNs Animation:**
-- Navigate to the PINNs_GIF directory
-- Open the PINNs.ipynb file in Jupyter Notebook
-- Run all cells to generate the animation
 
 ## License
 
